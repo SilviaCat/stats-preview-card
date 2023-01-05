@@ -21,6 +21,7 @@ body {
   font-family: "Inter", sans-serif;
   font-size: 0.9375rem;
   color: var(--White);
+  height:100vh;
 }
 
 .container {
